@@ -14,3 +14,4 @@ c) make a folder with all 474 cases in it.
 d) create folders (directories) for i)train, validation, test and ii)train_downsample, validation_downsample, test_downsample.
 
 - For conducting any experiment with the given code make sure that each directory matches with yours. 
+- files 1_preprocess_tools.py, 2_feature_extraction_tools.py and 3_model_optimization_tools.py contain general functions for the analysis of both datasets. 
